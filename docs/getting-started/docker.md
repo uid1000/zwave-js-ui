@@ -2,7 +2,7 @@
 # Using Docker
 
 > [!TIP]
-> Building your own docker image is [easy!](development/custom-docker.md). This allows you to change the arch and/or use any combination of node-zwave-js/zwave-js-ui branches.
+> Building your own docker image is [easy!](/docs/development/custom-docker.md) This allows you to change the arch and/or use any combination of node-zwave-js/zwave-js-ui branches.
 
 ## Supported Archs
 
